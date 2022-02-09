@@ -1,16 +1,19 @@
-### Hi there 👋
+ #                                  Hİ 🖐. I'm Sabri PINARCIOĞLU
+ 
+ 
+ 
+ 
+  ###   I'm Data Scientist in Internal Control Center at Denizbank
+  ###   Statistics-Bachelor degree educated
+  ###   Experienced in Deep Learning , Machine Learning , Data Analyze.
+  ###   Innovative, committed to continuously improving skills and processes. Enthusiastic, resilient, tenacious, 
+  ###   adaptable, collaborative.
+  ###    I like  Camping, Play Tennis , Cooking
 
-<!--
-**sabrioguz34/sabrioguz34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+   ### Contact me
+
+   [Linkedin](https://www.linkedin.com/in/sabripinarcioglu/ "Linkedin Profil")
